@@ -359,9 +359,9 @@ body {
     -webkit-transition: all 1s;
     -o-transition: all 1s;
     transition: all 1s;
-    -webkit-transform: translateY(300%);
-    -ms-transform: translateY(300%);
-    transform: translateY(300%); }
+    -webkit-transform: translateY(600%);
+    -ms-transform: translateY(600%);
+    transform: translateY(600%); }
 
 .products__cloth:hover {
   background: #6bb40d;
