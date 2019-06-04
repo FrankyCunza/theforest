@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: 'colaborate';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Colaborate'), local('Colaborate-Regular'), url(fonts/ColabReg.otf) format('otf')
+}
+@font-face {
+    font-family: 'colaborate';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Colaborate'), local('Colaborate-Thin'), url(fonts/ColabThi.otf) format('otf');}
+@font-face {
+    font-family: 'colaborate';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Colaborate'), local('Colaborate-Medium'), url(fonts/ColabMed.otf) format('otf'); 
+}
+@font-face {
+    font-family: 'colaborate';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Colaborate'), local('Colaborate-Light'), url(fonts/ColabLig.otf) format('otf');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+    font-family: 'colaborate';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Colaborate'), local('Colaborate-Bold'), url(fonts/ColabBol.otf) format('otf');
+}
+
+
+
+
+
