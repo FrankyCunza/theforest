@@ -352,9 +352,9 @@ body {
     -webkit-transition: all 1s;
     -o-transition: all 1s;
     transition: all 1s;
-    -webkit-transform: translateY(-180%);
-    -ms-transform: translateY(-180%);
-    transform: translateY(-180%); }
+    -webkit-transform: translateY(-190%);
+    -ms-transform: translateY(-190%);
+    transform: translateY(-190%); }
   .details p {
     -webkit-transition: all 1s;
     -o-transition: all 1s;
